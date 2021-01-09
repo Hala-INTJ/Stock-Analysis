@@ -1,4 +1,4 @@
-# Challenge 1: VBA of Wall Street
+# Challenge 2: VBA of Wall Street
 
 ## Overview of Project
 Analyse the stock data for 12 stock tickers for the years 2017 and 2018 using a Visual Basic For Applications macro. 
@@ -32,7 +32,7 @@ The screenshots below display the run times for the initial implementation of th
 | ------------------------------ | ------------------------------ |
 | ![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/Resources%20Folder/VBA_Challenge_2017.png) | ![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/Resources%20Folder/VBA_Challenge_2018.png) |
    
-As a result of the refactoring, performace runtime was improved by 82% for 2017 and by 80% for 2018.   
+As a result of the refactoring, performace runtime was improved by 82.3% for 2017 and by 80.6% for 2018.   
 
 ## Summary
 
@@ -50,6 +50,6 @@ The refactoring focused primarily on runtime performace improvements. The curren
 
  * The data is ordered by stock and date 
  * There will always be data for every stock ticker
- * The user running the script will enter a year for which data is available (no error checking).
+ * The user running the script will enter a year for which data is available (no error checking)
 
  Additional refactoring and code improvements could be implemented to make the solution more resilient and flexible. 
