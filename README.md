@@ -14,7 +14,8 @@ The VBA_Challenge.xlsm workbook includes the worksheet "All Stocks Analysis" and
 
 These images represent the results of running the VBA script for 2017 and 2018.
 
-![2017 Results](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2017%20Results.png "2017 Results")
+![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2017%20Results.png)
+*2017 Results*
 
 ![2018 Results](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2018%20Results.png "2018 Results")          
         
