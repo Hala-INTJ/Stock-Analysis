@@ -14,15 +14,20 @@ The VBA_Challenge.xlsm workbook includes the worksheet "All Stocks Analysis" and
 
 These images represent the results of running the VBA script for 2017 and 2018.
 
-![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2017%20Results.png)
 *2017 Results*
+![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2017%20Results.png)
 
-![2018 Results](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2018%20Results.png "2018 Results")          
+*2018 Results*
+![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2018%20Results.png)          
         
 ### Performance Results of Stock Analysis Before Refactoring 
-   The screenshots below display the run times for the intial implementation of the stocks analysis script.
+The screenshots below display the run times for the initial implementation of the stocks analysis script.
    
-   ![hello!](~./images/adam-solomon-hello.jpg~ "adam solomon's hello”)
+*2017 runtime before refactoring*
+![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2017%20runtime%20without%20refactoring.png)
+   
+*2018 runtime before refactoring*
+![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2018%20runtime%20without%20refactoring.png)
 
 ### Performance Results of Stock Analysis After Refactoring 
   The code was refactored to iterate over the stock data once and record the values in arrays. The screenshots below display the run times for the refactored implementation of the stocks analysis script.
