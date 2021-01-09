@@ -24,17 +24,24 @@ These images represent the results of running the VBA script for 2017 and 2018.
 The screenshots below display the run times for the initial implementation of the stocks analysis script.
    
 *2017 runtime before refactoring*
+
 ![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2017%20runtime%20without%20refactoring.png)
    
 *2018 runtime before refactoring*
+
 ![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2018%20runtime%20without%20refactoring.png)
 
 ### Performance Results of Stock Analysis After Refactoring 
   The code was refactored to iterate over the stock data once and record the values in arrays. The screenshots below display the run times for the refactored implementation of the stocks analysis script.
-    
-    ![Outcomes_vs_Goals](path)
 
+*2017 runtime after refactoring*
 
+![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/Resources%20Folder/VBA_Challenge_2017.png)
+  
+*2017 runtime after refactoring*
+
+![](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/Resources%20Folder/VBA_Challenge_2018.png)    
+   
 As a result of the refactoring, performace runtime was improved by 82% for 2017 and by 80% for 2018.   
 
 ## Summary
