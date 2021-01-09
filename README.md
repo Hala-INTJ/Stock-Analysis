@@ -9,12 +9,14 @@ To analyze the stock dataset to generate the annual volume and return rate for a
 ## Results
 
 ### Results of Stock Analysis for 2017 and 2018
-The VBA_Challenge.xlsm workbook includes the worksheet "All Stocks Analysis" and the VBA script to perform the analysis. [VBA_Challenge.xlsm] (path)
+The VBA_Challenge.xlsm workbook includes the worksheet "All Stocks Analysis" and the VBA script to perform the analysis.
+[VBA_Challenge.xlsm](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/VBA_Challenge.xlsm)
 
 These images represent the results of running the VBA script for 2017 and 2018.
 
-![2017 Results] (path)
-![2018 Results] (path)          
+![2017 Results](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2017%20Results.png "2017 Results")
+
+![2018 Results](https://github.com/Hala-INTJ/Stock-Analysis/blob/main/2018%20Results.png "2018 Results")          
         
 ### Performance Results of Stock Analysis Before Refactoring 
    The screenshots below display the run times for the intial implementation of the stocks analysis script.
